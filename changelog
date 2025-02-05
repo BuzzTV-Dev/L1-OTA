@@ -1,5 +1,11 @@
-20250204205101
+20250205173046
 
-- Update BuzzTV
-- Make USB drives writable
+New Update Buzz 6 App V1.0.105
+Changes:
+
+- Added Backup/Restore Feature to Settings
+- Added Fast Login to All MAC, XC + M3U Servers
+- Added Color Button Features to Servers in Server Settings
+- Fixed UI background color for icons
+- Fixed VPN Connection Bugs
 
