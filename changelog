@@ -1,11 +1,10 @@
-20250205173046
+20250206230446
 
-New Update Buzz 6 App V1.0.105
+New Update Buzz 6 App V1.0.106
 Changes:
 
-- Added Backup/Restore Feature to Settings
-- Added Fast Login to All MAC, XC + M3U Servers
-- Added Color Button Features to Servers in Server Settings
-- Fixed UI background color for icons
-- Fixed VPN Connection Bugs
+- Fixed some Backup/Restore bugs
+- Fixed a bug with editing servers
+- Fixed more UI background color for icons
+- Fixed some small bugs
 
