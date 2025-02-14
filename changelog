@@ -1,11 +1,10 @@
-20250213164809
+20250214162940
 
-Buzz TV 6 V1.0.111
+Buzz TV 6 V1.0.112
 
 Changes:
 
-- Fixed Adult on Live TV
-- Added more Aspect Ratio Options
-- Fixed Audio Track Bugs
-- Fixed Status Bar on VOD
+- Fixed TV shows with 14+ episodes on MAC servers
+- Fixed Timer on Status Bar of VOD
+- Bug Fixes
 
