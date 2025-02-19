@@ -1,10 +1,16 @@
-20250214162940
+20250218233017
 
-Buzz TV 6 V1.0.112
+Buzz 6 Update
+V1.0.114
 
 Changes:
 
-- Fixed TV shows with 14+ episodes on MAC servers
-- Fixed Timer on Status Bar of VOD
-- Bug Fixes
+- Fixed a bug with TV Shows with 14+ Seasons
+- Fixed a bug with Catch-up stopping on a black screen at the end of a program
+- Fixed the UI overlay on grid epg for time elapsed
+- Fixed a bug with the keyboard automatically opening on the next row after closing it
+- Fixed a bug with No Password required for Adult VOD
+- Adult Password is now required to open the Adult Categories in Live + VOD
+- Fixed a bug with sorting in favorite categories
+- Update base OS
 
