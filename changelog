@@ -1,11 +1,11 @@
-20250219160611
+20250220181212
 
 Buzz 6 Update
-V1.0.115
+V1.0.116
 
 Changes:
 
-- Info button now works on Channel List, Grid EPG and Single EPG
+- Fixed a bug with Adult appearing in All channels and Last Ch history
 - Status Bar is now clickable for FFWD/REW on VOD Playback
 - Fixed some MAC Server Bugs
 
