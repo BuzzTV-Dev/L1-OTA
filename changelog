@@ -1,11 +1,14 @@
-20250220181212
+20250222131318
 
-Buzz 6 Update
-V1.0.116
+New Buzz TV 6 App Update
+V1.0.117
 
 Changes:
 
-- Fixed a bug with Adult appearing in All channels and Last Ch history
-- Status Bar is now clickable for FFWD/REW on VOD Playback
-- Fixed some MAC Server Bugs
+- Fixed cut off descriptions on Live TV, VOD and TV series
+- Fixed Adult in All Channels Category
+- Fixed password field position when adding a vpn connection
+- Update VOD/series every 8 hours on MAC servers
+- Updated TDMB API to fix some issues in Search (the app show "Error") when clicked on an actor in VOD/Series
+- Fixed Minor Bugs
 
