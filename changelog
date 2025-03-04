@@ -1,12 +1,9 @@
-20250227141749
+20250303201204
 
-New Buzz TV 6 App Update
-V1.0.119
+Buzz 6 New Update
+V1.0.121
 
 Changes:
-
-- Fixed bugs with descriptions in TV Series
-- Fixed TMDB for episodes
-- Fixed player error messages, now they should not appear as often. But it requires testing
-- Fixed a buffer bug with the video player. Which caused streams to restart
+- Fixed Audio and Playback Bugs
+- Fixed Status UI on VOD Info Bar
 
