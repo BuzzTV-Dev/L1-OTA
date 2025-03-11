@@ -1,12 +1,11 @@
-20250307173300
+20250311000000
 
-New Buzz TV 6 App Update
-V1.0.123
-March 7th, 2025
+New Buzz 6 App Update
+V1.0.124
 
 Changes:
 
-- Added Resume Feature to Movies in VOD and TV Series
-- Bug Fixes for Resume Feature
-- Other Minor Bug Fixes
+- Fixed a glitch in Organize Categories
+- Fixed a bug with selecting actors in Movie Info of VOD
+- Fixed Server Connection Bugs
 
