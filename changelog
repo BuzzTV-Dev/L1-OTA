@@ -1,11 +1,9 @@
-20250311000000
+20250311174012
 
 New Buzz 6 App Update
-V1.0.124
+V1.0.125
 
 Changes:
 
-- Fixed a glitch in Organize Categories
-- Fixed a bug with selecting actors in Movie Info of VOD
-- Fixed Server Connection Bugs
+- Resume Playback bug and UI fixes
 
