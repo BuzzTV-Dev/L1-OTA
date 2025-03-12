@@ -1,9 +1,12 @@
-20250311174012
+20250312165809
 
 New Buzz 6 App Update
-V1.0.125
+V1.0.126
 
 Changes:
 
 - Resume Playback bug and UI fixes
+- Fixed a bug when disconnecting server on server settings
+- Fixed a bug when booting the box and no internet
+- Improved Performance on App Starting
 
