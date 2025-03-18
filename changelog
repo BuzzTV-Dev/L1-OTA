@@ -1,13 +1,13 @@
-20250317193201
+20250318171347
 
 New Buzz 6 App Update
-Buzz 6 App Version V1.0.129
+Buzz 6 App Version V1.0.130
 
 Changes:
 
-- Fixed bugs in Change MAC Feature
-- Info Button now works for Episodes in TV Shows
+- Info button now works when playing a movie or show in VOD/TV Series
 - Fixed a bug with Last Ch History and Adult Channels
-- Fixed a bug with the Info bar timing out on VOD when selecting Subtitles
-- Fixed a bug with Freeze Framing when starting a channel or Resuming on VOD/Series due to buffering
+- Player Fixes
+- Bug Fixes
+- Database Crash Fixes
 
