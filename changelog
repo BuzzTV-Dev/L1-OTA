@@ -1,13 +1,10 @@
-20250318171347
+20250319191919
 
 New Buzz 6 App Update
-Buzz 6 App Version V1.0.130
+Buzz 6 App Version V1.0.131
 
 Changes:
 
-- Info button now works when playing a movie or show in VOD/TV Series
-- Fixed a bug with Last Ch History and Adult Channels
-- Player Fixes
-- Bug Fixes
-- Database Crash Fixes
+- Fixed Black Screen bugs on playback
+- Fixed Duplicate Audio/Video Bugs
 
