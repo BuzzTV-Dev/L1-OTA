@@ -1,10 +1,12 @@
-20250319191919
+20250324180914
 
 New Buzz 6 App Update
-Buzz 6 App Version V1.0.131
+Buzz 6 App Version V1.0.132
 
 Changes:
 
 - Fixed Black Screen bugs on playback
 - Fixed Duplicate Audio/Video Bugs
+- Added title cards for Season and Ep # on Recently Watched
+- Fixed a bug with MAC Server Connection Errors
 
