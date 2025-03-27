@@ -1,10 +1,11 @@
-20250326124822
+20250327125700
 
 New Buzz 6 App Update
-Buzz 6 App Version V1.0.133
+Buzz 6 App Version V1.0.134
 
 Changes:
 
-- Fixed Playback Bugs
-- Updated Keyboard UI
+- Fixed Server + XML EPG Bugs on XC Login
+- Added Organize Favs + Channels Feature to Channel List
+- Added Move to Top in Organize Categories when moving categories
 
