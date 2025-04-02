@@ -1,13 +1,10 @@
-20250401100901
+20250402171846
 
 New Buzz 6 App Update
-Buzz 6 App Version V1.0.137
+Buzz 6 App Version V1.0.138
 
 Changes:
 
-- Added Volume Configuration Feature to Settings
-- Fixed a bug with low resolution streams
-- Added Buffering/Loading Stream Animation
-- Fixed Server Bugs with Favorites
-- Fixed Frame Glitches on streams with certain screen ratios
+- Fixed a Favs issue on MAC servers with missing seasons/episodes
+- Fixed Minor Bugs
 
