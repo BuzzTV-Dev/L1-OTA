@@ -1,10 +1,12 @@
-20250402171846
+20250408153951
 
 New Buzz 6 App Update
-Buzz 6 App Version V1.0.138
+Buzz 6 App Version V1.0.141
 
 Changes:
 
-- Fixed a Favs issue on MAC servers with missing seasons/episodes
+- Fixed a Favs issue on MAC servers with missing seasons/episodes after a reboot
 - Fixed Minor Bugs
+- Added Disconnect, Change Password, Forget Network Feature to Wifi settings
+- Fixed a bug with no catch-up on some Mac servers
 
