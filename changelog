@@ -1,12 +1,12 @@
-20250408153951
-
 New Buzz 6 App Update
-Buzz 6 App Version V1.0.141
+Buzz 6 App Version: 1.0.143
+Firmware Version: 20250410204425
 
 Changes:
 
-- Fixed a Favs issue on MAC servers with missing seasons/episodes after a reboot
-- Fixed Minor Bugs
-- Added Disconnect, Change Password, Forget Network Feature to Wifi settings
-- Fixed a bug with no catch-up on some Mac servers
+- Fixed a bug with Forget Network not working on Wifi
+- Fixed a bug on TV Series not playing certain shows
+- Info button now functions in Catch-up Playback
+- Fixed a bug with catch-up playback on XC Servers
+- Buffering animation now disappears after 10 seconds on Live TV
 
