@@ -1,11 +1,13 @@
 New Buzz 6 App Update
-Buzz 6 App Version: 1.0.144
-Firmware Version: 20250411224212
+Buzz 6 App Version V1.0.149
+April 17th, 2025
 
 Changes:
 
 - Fixed UI Colors on Universal Search and Catch-Up
 - Update Keyboard Letters
 - Fixed no Channel Logo on Catch-Up
-- Fixed a bug on Change Password in Wifi
+- Fixed a Navigation bug on the Home Screen
+- Fixed a Bug on MAC Servers channel list not updating after changing packages
+- Added Place Holders to Adult VOD in the ALL Category
 
