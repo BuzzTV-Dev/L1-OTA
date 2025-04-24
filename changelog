@@ -1,10 +1,12 @@
 New Buzz 6 App Update
-Buzz 6 App Version V1.0.151
-April 21st, 2025
+Buzz 6 App Version V1.0.153
+April 23rd, 2025
 
 Changes:
 
-- Added TMDB ON/OFF Switch for VOD/TV Series to App Settings
-- Fixed TMDB Missing on some TV Shows
-- Fixed some minor bugs
+- Minor Bug Fixes
+- Buffering Animation Bug Fixes
+- Fixed Some TV Shows on Favorites not playing due to TMDB Bug
+- Fixed a Backup/Restore Bug on MAC Servers
+- Fixed a bug with Clear EPG in Configuration Menu
 
