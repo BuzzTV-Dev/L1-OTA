@@ -1,12 +1,13 @@
 New Buzz 6 App Update
-Buzz 6 App Version V1.0.153
-April 23rd, 2025
+Buzz 6 App Version V1.0.155
+April 29th, 2025
 
 Changes:
 
-- Minor Bug Fixes
-- Buffering Animation Bug Fixes
-- Fixed Some TV Shows on Favorites not playing due to TMDB Bug
-- Fixed a Backup/Restore Bug on MAC Servers
-- Fixed a bug with Clear EPG in Configuration Menu
+- Fixed a Crash Bug in VOD
+- Fixed a bug with Last Seen on MAC Servers
+- Added a workaround for missing TMDB info for movies and series which contain a language name in their names (e.g. "(English)")
+- Fixed a bug when Device ID 1 and & would reset after user updates server info
+- Added TMDB Support on VOD/TV Series for multiple system languages
+- Fixed Next Episode Button in TV Series
 
