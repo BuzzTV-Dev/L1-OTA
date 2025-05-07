@@ -1,10 +1,11 @@
 Buzz 6 App Update
-V1.0.159
+V1.0.160
 May 5th, 2025
 
 Changes:
 
-- Fixed TMDB Bugs 
+- Fixed TMDB Bugs
 - Added EPG Offset Feature to Configuration
 - Added Pause Icon to VOD + TV Series
+- Added Zoom + Thicker Menu Highlight to VOD/Series when browsing
 
