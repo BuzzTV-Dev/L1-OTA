@@ -1,3 +1,19 @@
+Buzz TV Linux
+OS Update
+20250625053116
+
+June 25th, 2025
+
+Changes:
+
+- Update OTA logic
+- Update system packages
+- Update multimedia packages
+- Update bootloader
+- Bug fixes / Stabillity improvements
+
+-------------------------
+
 Buzz TV 6
 App Update
 V1.0.184
@@ -13,19 +29,4 @@ Changes:
 - Added Descriptions to Settings Menu when highlighted
 - Added Add to Favs Feature in Search for Live, VOD + TV Series
 - Bug Fixes
-
--------------------------
-
-Buzz TV OS
-20250623154502
-
-June 23th, 2025
-
-Changes:
-
-- Update OTA logic
-- Update system packages
-- Update multimedia packages
-- Update bootloader
-- Bug fixes / Stabillity improvements
 
