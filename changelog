@@ -1,10 +1,10 @@
-Buzz TV Linux
-OS Update
-20250625205122
-
-June 25th, 2025
+Buzz TV L1
+New Firmware Update
+20260225
 
 Changes:
+- Updated Codecs
+- Updated Linux Packages
+- Updated Video Player
 
-- Fix app sideload
-
+YOU CANNOT REVERT BACK TO PREVIOUS VERSION ONCE INSTALLED.
