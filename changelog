@@ -1,10 +1,22 @@
-Buzz TV L1
-New Firmware Update
-20260225
+Buzz OS Update
+
+Official Update
+20260612152000
+June 18th, 2026
+
+
+YOU CANNOT REVERT BACK TO OLD VERSION AFTER TAKING UPDATE.
 
 Changes:
-- Updated Codecs
-- Updated Linux Packages
-- Updated Video Player
 
-YOU CANNOT REVERT BACK TO PREVIOUS VERSION ONCE INSTALLED.
+- Update Debian Base
+- Update Kernel to 6.1.118
+- Update Rockchip Packages
+- Implement BORE CPU Schedular
+- Set CPU/GPU Governors to Performance
+- Increase CPU Clock to 2.5GHz
+- Increase GPU Clock to 950MHz
+- Fix Potential Issue Causing Loss of DNS
+- Update WiFi Driver
+- Add YouTube (Must Sign-in to Use)
+
